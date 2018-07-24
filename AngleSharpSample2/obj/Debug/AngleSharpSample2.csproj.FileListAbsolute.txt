@@ -1,0 +1,13 @@
+C:\Users\yuta\source\repos\AngleSharpSample2\AngleSharpSample2\bin\Debug\AngleSharpSample2.exe.config
+C:\Users\yuta\source\repos\AngleSharpSample2\AngleSharpSample2\bin\Debug\AngleSharpSample2.exe
+C:\Users\yuta\source\repos\AngleSharpSample2\AngleSharpSample2\bin\Debug\AngleSharpSample2.pdb
+C:\Users\yuta\source\repos\AngleSharpSample2\AngleSharpSample2\bin\Debug\AngleSharp.dll
+C:\Users\yuta\source\repos\AngleSharpSample2\AngleSharpSample2\bin\Debug\AngleSharp.xml
+C:\Users\yuta\source\repos\AngleSharpSample2\AngleSharpSample2\obj\Debug\AngleSharpSample2.csprojAssemblyReference.cache
+C:\Users\yuta\source\repos\AngleSharpSample2\AngleSharpSample2\obj\Debug\AngleSharpSample2.Form1.resources
+C:\Users\yuta\source\repos\AngleSharpSample2\AngleSharpSample2\obj\Debug\AngleSharpSample2.Properties.Resources.resources
+C:\Users\yuta\source\repos\AngleSharpSample2\AngleSharpSample2\obj\Debug\AngleSharpSample2.csproj.GenerateResource.cache
+C:\Users\yuta\source\repos\AngleSharpSample2\AngleSharpSample2\obj\Debug\AngleSharpSample2.csproj.CoreCompileInputs.cache
+C:\Users\yuta\source\repos\AngleSharpSample2\AngleSharpSample2\obj\Debug\AngleSharpSample2.csproj.CopyComplete
+C:\Users\yuta\source\repos\AngleSharpSample2\AngleSharpSample2\obj\Debug\AngleSharpSample2.exe
+C:\Users\yuta\source\repos\AngleSharpSample2\AngleSharpSample2\obj\Debug\AngleSharpSample2.pdb
